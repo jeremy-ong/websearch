@@ -2,7 +2,7 @@
 Basic web crawler that searches pages within a domain.
 
 ## Basic info
-Takes root URLs and searches the given pages for the query term. Can be set to recursively search any links on the page, provided that they are below the root URL.  
+Takes root URLs and searches the given pages for the query term. Can be set to recursively search any links on the page, provided that they are below the root URL. Only works in Python 2.  
 
 (from the help text)  
 
